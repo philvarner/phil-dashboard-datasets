@@ -1,4 +1,4 @@
-BUCKET: bucket-does-not-exist
+BUCKET: phil-dashboard-datasets
 DATASET_METADATA_FILENAME: dataset-metadata.json
 DATASETS:
 - MOD13A1.006.json
