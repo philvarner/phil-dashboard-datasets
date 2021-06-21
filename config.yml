@@ -1,0 +1,4 @@
+BUCKET: bucket-does-not-exist
+DATASET_METADATA_FILENAME: dataset-metadata.json
+DATASETS:
+- MOD13A1.006.json
